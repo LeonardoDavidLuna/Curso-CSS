@@ -1,0 +1,12 @@
+.contact-form__h2{
+    font-size: 25px;   
+}
+.contact-form__h2{
+    font-size: 2em;
+    font-family: Georgia;
+    line-height: 1.9; /* El tamaño en alto de una letra.
+    Se ubica en el centro de la letra y 1/2 hacia arriba + 1/2 hacia abajo*/
+    font-weight: normal;
+    font-stretch: normal;
+    font-variant: small-caps;
+}

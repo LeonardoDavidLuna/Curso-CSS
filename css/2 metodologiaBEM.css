@@ -1,0 +1,9 @@
+/* Forma 1 de seleccionar un primer elemento repetido */
+.contact-form__input:first-child{
+    color:red;
+}
+/* Forma 2 de seleccionar un primer elemento repetido */
+/* --:Significa que todos son iguales */
+.contact-form__input--active{
+    color:green;
+}

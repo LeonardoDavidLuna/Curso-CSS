@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.contact-form__h2{
+    font-size: 25px;
+    color: red;
+    /* Puede ser cm, mm, pt (puntos) etc */
+}
+
+
+.li-px{
+    font-size: 20px;
+}
+.li-cm{
+    font-size: 20px;
+}
+.li-mm{
+    font-size: 20px;
+}
+.li-pt{
+    font-size: 20px;
+}
+.em{
+    font-size: 1em;
+}
+.rem{
+    font-size: 1rem;
+}
+
+.vm{
+    color: white;
+    background-color: black;
+    width: 50vw;
+}
+.vh{
+    color: white;
+    background-color: black;
+    width: 50vw;
+    height: 50vh;
+}
+
+.procentaje{
+    color: white;
+    background-color: black;
+    width: 50%;
+    height: 50%;   
+}

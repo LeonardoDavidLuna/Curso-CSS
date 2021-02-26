@@ -1,0 +1,49 @@
+/*Selector universal
+* {
+    color: #283;
+} */
+/* Selector de tipo */
+h6 {
+    color: #28e;
+}
+/* Seleccionar por clases */
+.class {
+    color: #384;
+}
+/* Seleccionar por id */
+#id {
+    color: #24a;
+}
+/* Seleccionar por Atributo */
+[name="atributo"]{
+    color: #722;
+}
+/* Seleccionar de manera Descendente */
+li b{
+    color: #1f3;
+}
+/* Seleccionar por eventos como hover o active*/
+li:hover{
+    color: #1b9;
+}
+
+/* Jerarquía de selectores */
+#important{
+    color: grey !important;
+}
+
+#identificador{
+    color: blue;
+}
+
+.class2{
+    color:purple;
+}
+[name="atributo2"]{
+    color: brown;
+}
+
+
+
+/* Atributos de Fuentes */
+
